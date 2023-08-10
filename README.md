@@ -1,1 +1,1 @@
-# Imperial-Insights-Hotel-Management-System
+# Imperial Insights : Hotel Management System
